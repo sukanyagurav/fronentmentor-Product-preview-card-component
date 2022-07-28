@@ -1,0 +1,1 @@
+# fronentmentor-Product-preview-card-component
